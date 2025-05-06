@@ -1,11 +1,11 @@
-Term,Definition,Type
-API,Application Programming Interface – allows software to communicate.,Business
-Bandwidth,The amount of data that can be transmitted over a network in a given time.,Business
-Cookie,A small piece of data stored in the user's browser.,Business
-Database,"A structured set of data held in a computer, especially one accessible in various ways.",Technology
-Encryption,The process of converting data into a secure format.,Technology
-Firewall,A network security system that monitors and controls incoming and outgoing network traffic.,Technology
-Gigabyte,A unit of digital information equal to one billion bytes.,Technology
-HTML,HyperText Markup Language – the standard markup language for documents designed to be displayed in a web browser.,Technology
-IP Address,A unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate over a network.,Technology
-JavaScript,A programming language commonly used in web development.,Technology
+Term,Definition,Type,AKA
+API,Application Programming Interface – allows software to communicate.,Business,
+Bandwidth,The amount of data that can be transmitted over a network in a given time.,Business,
+Cookie,A small piece of data stored in the user's browser.,Business,Biscuit
+Database,"A structured set of data held in a computer, especially one accessible in various ways.",Technology,
+Encryption,The process of converting data into a secure format.,Technology,Security
+Firewall,A network security system that monitors and controls incoming and outgoing network traffic.,Technology,
+Gigabyte,A unit of digital information equal to one billion bytes.,Technology,
+HTML,HyperText Markup Language – the standard markup language for documents designed to be displayed in a web browser.,Technology,
+IP Address,A unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate over a network.,Technology,
+JavaScript,A programming language commonly used in web development.,Technology,JS
